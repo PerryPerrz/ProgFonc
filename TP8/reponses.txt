@@ -1,0 +1,42 @@
+IOPETI Hugo 06/04/22
+
+Exercice 1 :
+
+Q1)  String Lignes : 36/75/168 du fichier eval.ml
+
+Q2) Concat Lignes : 37/76/169 du fichier eval.ml
+
+Q3) Cell Lignes : 38/77/176 du fichier eval.ml
+
+Q4) Len Lignes : 95 du fichier eval.ml
+
+Exercice A :
+
+Q5) Lignes : 41/81/198
+
+Q6) Lignes : 42/80/192
+
+Q7) Lignes : 101/109
+
+Q8) Lignes : 110
+
+Q9) -
+
+Exercice B : 
+
+Q10) Lignes : 84/201
+
+Q11) Lignes : 113/120
+
+Q12) - 
+
+Exercice C : 
+
+Q13) -
+
+Q14) -
+
+Q15) -
+
+Q16) -
+
